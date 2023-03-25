@@ -3,7 +3,7 @@
 int main() {
     printf("hello, world!\n");
 
-    printf("this is new line\n");
+    printf("this is old line\n");
 
     return 0;
 }
