@@ -7,6 +7,8 @@ int main() {
 
     printf("this is old line\n");
 
+    printf("this new feature added\n");
+
     scanf("%d %d", &a, &b);
 
 
